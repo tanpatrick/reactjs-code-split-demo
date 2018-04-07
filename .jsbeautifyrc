@@ -1,0 +1,11 @@
+{
+    "indent_size": 4,
+    "html": {
+        "indent_inner_html": true
+    },
+    "css": {},
+    "js": {
+        "space_in_empty_paren": true,
+        "space_in_paren": true
+    }
+}
